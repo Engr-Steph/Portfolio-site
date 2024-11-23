@@ -3,7 +3,7 @@
 /*******************************/
 body {
     color: #797979;
-    background: #ffffff;
+    background: #deeff7;
     font-family: 'Montserrat', sans-serif;
 }
 
@@ -17,7 +17,7 @@ h6 {
 }
 
 a {
-    color: #313131;
+    color: #1f1e1e;
     transition: .3s;
 }
 
@@ -44,7 +44,7 @@ a:focus {
     font-weight: 600;
     letter-spacing: 1px;
     color: #ffffff;
-    background: #EF233C;
+    background: #1b1a1a;
     border: 2px solid transparent;
     border-radius: 0;
     box-shadow: inset 0 0 0 50px #EF233C;
@@ -188,7 +188,7 @@ a:focus {
     }
     
     .navbar.nav-sticky .navbar-brand {
-        color: #EF233C;
+        color: #1a1717;
     }
 
     .navbar-light .navbar-nav .nav-link,
@@ -206,7 +206,7 @@ a:focus {
 
     .navbar-light .navbar-nav .nav-link:hover,
     .navbar-light .navbar-nav .nav-link.active {
-        color: #111111;
+        color: #e90a0a;
     }
     
     .navbar-light.nav-sticky .navbar-nav .nav-link:hover,
@@ -222,7 +222,7 @@ a:focus {
     }
     
     .navbar .navbar-brand {
-        color: #EF233C;
+        color: #111010;
     }
     
     .navbar .navbar-nav {
@@ -248,7 +248,7 @@ a:focus {
     margin-bottom: 45px;
     padding: 120px 0 0 0;
     overflow: hidden;
-    background: linear-gradient(rgba(239, 35, 60, .95), rgba(239, 35, 60, .95)), url(../img/hero-bg.jpg);
+    background: linear-gradient(rgba(29, 27, 28, 0.95), rgba(239, 35, 60, .95)), url(../img/hero-bg.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -1216,7 +1216,7 @@ a:focus {
     position: relative;
     margin: 45px 0;
     padding: 90px 0;
-    background: #EF233C;
+    background: #415e6b;
 }
 
 .testimonial .container {
@@ -1306,7 +1306,7 @@ a:focus {
     position: relative;
     width: 100%;
     margin: 45px 0;
-    background: #EF233C;
+    background: #c3e5f5;
 }
 
 .contact .container-fluid {
@@ -1317,7 +1317,7 @@ a:focus {
 .contact .contact-form {
     position: relative;
     padding: 90px 0 90px 45px;
-    background: #EF233C;
+    background: #415e6b;
 }
 
 .contact .contact-form input {
@@ -1465,7 +1465,7 @@ a:focus {
 .footer {
     position: relative;
     margin-top: 45px;
-    background: #EF233C;
+    background: #2f7ea3;
 }
 
 .footer .container-fluid {
